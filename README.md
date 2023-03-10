@@ -1,0 +1,6 @@
+Titulo 01 "/home/oem/Desktop/HTML 2ds/aula01.html"
+Titulo 02 "/home/oem/Desktop/HTML 2ds/aula02.html"
+Titulo 03 "/home/oem/Desktop/HTML 2ds/aula03.html"
+Titulo 04 "/home/oem/Desktop/HTML 2ds/aula04.html"
+Titulo 05 "/home/oem/Desktop/HTML 2ds/aula05.html"
+Logo: "/home/oem/Desktop/HTML 2ds/Logo_Bola_PNG(2).png"
